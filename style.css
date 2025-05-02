@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img {
+  background-image: url(Screenshot\ 2025-05-02\ 165217.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+h1 {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 50px;
+  color: red;
+  font-family: "poppins", sans-serif;
+}
